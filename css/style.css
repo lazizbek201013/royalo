@@ -114,11 +114,6 @@ img{
     border-bottom: 2px solid yellowgreen;
 }
 
-.about_content .item h3{
-    font-family: var(--roboto);
-    font-size: 2.87rem;
-    margin-bottom: 1rem;
-}
 .about_content .item p{
     font-size: 1.5rem;
 }
