@@ -446,7 +446,7 @@ button:hover{
   color: #fff;
   display: block;
   left: 10px;
-  margin-bottom: 1rem;
+  margin-top: 2rem;
 }
 .footer__content  img {
   width: 10%;
@@ -458,7 +458,7 @@ button:hover{
   margin-left: 30px;
   margin-bottom: 1rem;
 }
-.footer__content .item1 {
+.footer__content .item {
   padding: 2rem;
 }
 .footer__content .item  input {
@@ -476,19 +476,17 @@ button:hover{
   margin-right: 20px;
 }
 .footer__content button {
-  padding: 10px 20px;
+  padding: 5px 10px;
   background-color: blue;
   color: white;
   font-size: 1.2rem;
   border-radius: 30px;
   transition: all 0.5s linear;
   border: 0;
-  margin-top: 1rem;
+  margin-top: 2rem;
+
 }
-.footer__content button:hover {
-  background-color: red;
-  color: black;
-}
+
 
 .cop {
   padding: 2rem;
